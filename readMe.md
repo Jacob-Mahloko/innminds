@@ -14,6 +14,6 @@ Languages and Tools:<br><br>
 
 ## Table of Context
 * [Project Description](https://github.com/Jacob-Mahloko/innminds/wiki)
-* [SRS Documentation]()
+* [SRS Documentation](https://docs.google.com/document/d/13oMiX7dEFm2ioCSYiuAmSc0wevyus57KDUgof4qJAZM/edit?usp=sharing)
 * [Domain modeling]()
 * [Author](https://github.com/Jacob-Mahloko/innminds/wiki/Author)
