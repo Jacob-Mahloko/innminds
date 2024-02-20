@@ -1,4 +1,4 @@
-# InnTutors App
+# ITutors App
 
 Languages and Tools:<br><br>
 <img src="https://icongr.am/devicon/csharp-original.svg?size=30&color=currentColor"/>
